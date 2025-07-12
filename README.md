@@ -58,7 +58,3 @@
 <h4 align="left">Still learning.</h4>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pyatyorochka/pyatyorochka/output/snake.svg" alt="Snake animation" />
-
-###
